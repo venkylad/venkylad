@@ -9,7 +9,7 @@
 
 - 🌱 I’m love JS Frameworks **only React**
 
-- 👨‍💻 All of my projects are available at [https://gallant-lamarr-e8f1e5.netlify.app/](https://gallant-lamarr-e8f1e5.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://venkylad.netlify.app/](https://venkylad.netlify.app//)
 
 - 💬 Ask me about **React**
 
