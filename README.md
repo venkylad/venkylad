@@ -1,22 +1,24 @@
 <img src="github-banner.png" alt="gihub-banner" />
-<h1 align="center">Hi 👋, I'm Venkatesh K</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">Front-End/ Reactjs Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkylad&label=Profile%20views&color=0e75b6&style=flat" alt="venkylad" /> </p>
 
 
 
-- 🔭 I’m currently working on **Searching Job**
+- 🔭 I’m currently working on **Job Search**.
 
-- 🌱 I’m love JS Frameworks **only React**
+- 🌱 Only JS Framework I love **React**, because that's the only one I know.
 
 - 👨‍💻 All of my projects are available at [https://venkylad.netlify.app/](https://venkylad.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**.
 
-- 📫 How to reach me **venkateshkonuku888@gmail.com**
+- 📫 Can reach me at **venkateshkonuku888@gmail.com**
 
-- ⚡ Fun fact **CSS hates me, because ??? (you know that)**
+- ⚡ Fun fact :- **CSS hates me, because ??? (Ans: I am not that stylish)**
+
+ - ⚡ I had many repositories, only handful of them of contain good stuff.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
