@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact :- **CSS hates me, because ??? (Ans: I am not that stylish)**
 
- - ⚡ I had many repositories, only handful of them of contain good stuff.
+ - ⚡ I had many repositories, only handful of them contain good stuff.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
